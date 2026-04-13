@@ -4,10 +4,6 @@ This repository is a fork of the original
 [`xoreaxeaxeax/sandsifter`](https://github.com/xoreaxeaxeax/sandsifter),
 with a more modern local workflow and an in-progress Rust implementation.
 
-The original Python-oriented README from upstream is preserved in
-[`README.py.md`](./README.py.md). This README documents what is different in
-this fork and how to use the code as it exists here.
-
 ## What Changed In This Fork
 
 Compared to the original project, this fork makes three major changes:
