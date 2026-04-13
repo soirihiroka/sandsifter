@@ -1,0 +1,12 @@
+injector
+injector.o
+data/
+*.pyc
+
+
+# Added by cargo
+
+/target
+/data*/
+/data_rs*
+*.bin
